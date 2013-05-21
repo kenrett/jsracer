@@ -1,0 +1,21 @@
+.racer_table td {
+  background-color: gray;
+  height: 20px;
+  width: 50px;
+}
+ 
+#player1_strip {
+  border-bottom: dashed;
+  border-color: yellow;
+} 
+.racer_table td.active {
+  background-color: black;
+}
+ 
+.racer_table td.last1, td.last2 {
+border-left: solid red;
+}
+ 
+h1, p {
+  text-align: center;
+}
